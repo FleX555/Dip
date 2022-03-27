@@ -1,0 +1,54 @@
+
+
+.container-fluid{
+    
+}
+/*Header*/
+#navbar-header{
+    line-height: 3;
+    font-family: 'Manrope', sans-serif;
+    /*margin-right: -2.2rem;*/
+    background-color: #30a1f1;
+}
+
+#navbarNavDropdown{
+    justify-content: space-around;
+    font-size: 20px;
+    font-weight: bold;
+}
+/*Menu*/
+.page {
+    background-image: url("/img/background.jpg");
+}
+
+#menu{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    font-family: 'Manrope', sans-serif;
+}
+
+.card{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+/*Footer*/
+footer{
+    background-color: #30a1f1;
+    font-family: 'Manrope', sans-serif; 
+    
+}
+
+.footer{
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 3;
+}
+
+.col-left{
+    text-align: left;
+}
+
+.col-right{
+    text-align: right;
+}
